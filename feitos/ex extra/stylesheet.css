@@ -1,0 +1,10 @@
+.divBody {
+  display: flex;
+  flex-direction: column;
+}
+
+#result {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+} 
