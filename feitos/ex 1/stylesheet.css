@@ -1,0 +1,26 @@
+.flex-container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  padding: 30px;
+}
+
+.btn {
+  border: transparent;
+  background-color: #000540;
+  color: #ffffff;
+}
+
+.btn:hover {
+  cursor: crosshair;
+  transform: translatey(3px);
+  background-color: #000590;
+} 
+
+.h4-div {
+  display: flex;
+}
+
+ .result-h4 {
+   color: #00611a;
+}
