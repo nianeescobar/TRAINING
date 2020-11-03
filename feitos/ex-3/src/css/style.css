@@ -1,0 +1,29 @@
+.formCustomer {
+    display: flex;
+    flex-direction: column;
+    margin-right: 30px;
+    width: 100%;
+    max-width: 150px;
+  }
+  
+  .formInput {
+    display: flex;
+    align-items: center;
+  }
+  
+
+  .btnCadastrar {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 25px;
+    text-align: center;
+    background-color: purple;
+    color: white;
+  }
+  
+  .table {
+    width: 100%;
+    margin-top: 50px;
+  }
+  
